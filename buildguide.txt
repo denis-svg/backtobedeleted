@@ -1,0 +1,7 @@
+How to run the system step by step
+1. Install conda https://docs.conda.io/projects/miniconda/en/latest/
+2. make sure conda is added to path and you can run it in cli
+3. Create an enviroment with python and all the necesary libraries 
+	conda create --name <envname> --file requirements.txt
+4. Activate the enviroment
+	conda activate <envname>
